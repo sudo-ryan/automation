@@ -1,0 +1,7 @@
+{
+    "name": "village/booker",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    }
+}
